@@ -1,0 +1,32 @@
+{
+  "name": "dailymotion-node",
+  "version": "1.0.0",
+  "description": "Dailymotion API wrapper for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tymmesyde/dailymotion-node.git"
+  },
+  "keywords": [
+    "dailymotion",
+    "api",
+    "wrapper",
+    "node"
+  ],
+  "author": "tymmesyde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tymmesyde/dailymotion-node/issues"
+  },
+  "homepage": "https://github.com/tymmesyde/dailymotion-node#readme",
+  "dependencies": {
+    "node-fetch": "^2.2.1"
+  },
+  "devDependencies": {
+    "dotenv": "^6.1.0",
+    "mocha": "^5.2.0"
+  }
+}
